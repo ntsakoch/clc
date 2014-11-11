@@ -1,4 +1,4 @@
-clc
+My apps dev center
 ===
 
-clcgroup development center
+my applications development center
